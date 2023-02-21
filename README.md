@@ -1,5 +1,5 @@
-# jdbc_tp_5_6
+#Tp 5 & 6 sur jdbc
 
-Tp 5 & 6 sur jdbc
-
-Changer les proprietés dans src/ressources/db.properties
+- Aller dans le pom.xml pour installer les dépendances
+- Changer les proprietés dans src/ressources/db.properties
+- Créer la base de données renseigné dans les properties
